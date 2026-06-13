@@ -85,5 +85,22 @@ Clone the repositories:
 
 ## 💻 Front end repo
 - [Front-end Repository](https://github.com/thdat-vu/robot-food-ordering-system).
+## Demo
+
+A demo version of the system is also available to showcase the main workflow of the QR Code-Based Restaurant Ordering System.
+
+The demo includes:
+
+* Scanning a table QR code
+* Creating a table session
+* Browsing menu items
+* Adding items to cart
+* Placing an order
+* Tracking order status in real time
+* Monitoring orders from the restaurant side
+
+### Demo Repository / Demo Link
+
+* [Demo](https://www.youtube.com/watch?v=7ngKCFOToWA&feature=youtu.be)
 
   
